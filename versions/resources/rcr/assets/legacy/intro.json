@@ -1,1 +1,18 @@
-["legacy:textures/gui/intro/placeholder.png","legacy:textures/gui/intro/placeholder.png","legacy:textures/gui/intro/key.png","legacy:textures/gui/intro/placeholder.png","legacy:textures/gui/intro/4j.png","legacy:textures/gui/intro/mojang.png","legacy:textures/gui/intro/xbox.png","legacy:textures/gui/intro/vf.png"]
+{
+   "brands": [
+       "legacy:textures/gui/intro/key.png",
+       "legacy:textures/gui/intro/key.png",
+       "legacy:textures/gui/intro/key.png",
+       "legacy:textures/gui/intro/key.png",
+       "legacy:textures/gui/intro/key.png",
+       "legacy:textures/gui/intro/vf.png",
+       "legacy:textures/gui/intro/mojang.png",
+       "legacy:textures/gui/intro/4j.png",
+       "legacy:textures/gui/intro/xbox.png"
+    ],
+    "background": "legacy:textures/gui/intro/background.png",
+    "brandDuration": 3200,
+    "fadeIn": 0.075,
+    "fadeOut": 0.075,
+    "crossFade": true
+}
