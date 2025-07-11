@@ -15,5 +15,6 @@
  "legacy.menu.album_options": "Texture Pack Options",
  "legacy.menu.albums.resource.minecraft_classic": "Minecraft Classic Texture Pack",
  "legacy.menu.albums.resource.template.description": "A custom texture pack saved with the resource packs that were selected in the Resource Packs Screen! You can edit it in the resource_assorts.json file in the game directory.",
- "legacy.menu.remove_album": "Remove Texture Pack"
+ "legacy.menu.remove_album": "Remove Texture Pack",
+ "legacy.menu.create_world": "Create New World"
 }
