@@ -1,10 +1,10 @@
 {
    "brands": [
-       "legacy:textures/gui/intro/key.png",
-       "legacy:textures/gui/intro/key.png",
-       "legacy:textures/gui/intro/key.png",
-       "legacy:textures/gui/intro/key.png",
-       "legacy:textures/gui/intro/key.png",
+       "legacy:textures/gui/intro/key_blank.png",
+       "legacy:textures/gui/intro/key_loading1.png",
+       "legacy:textures/gui/intro/key_loading2.png",
+       "legacy:textures/gui/intro/key_loading3.png",
+       "legacy:textures/gui/intro/key_loading4.png",
        "legacy:textures/gui/intro/nr.png",
        "legacy:textures/gui/intro/mojang.png",
        "legacy:textures/gui/intro/4j.png",
