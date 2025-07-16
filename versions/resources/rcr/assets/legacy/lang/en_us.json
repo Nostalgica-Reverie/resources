@@ -11,6 +11,7 @@
  "legacy.menu.albums.resource.template": "Texture Packs %s",
  "legacy.menu.albums.resource.minecraft": "Minecraft Texture Pack",
  "legacy.menu.add_album": "Add Texture Pack",
+ "legacy.menu.edit_album": "Edit Pack Properties",
  "legacy.menu.album_info": "Enter the information for your Texture Pack",
  "legacy.menu.album_options": "Texture Pack Options",
  "legacy.menu.albums.resource.minecraft_classic": "Minecraft Classic Texture Pack",
