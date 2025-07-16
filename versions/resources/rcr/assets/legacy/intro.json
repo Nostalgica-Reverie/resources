@@ -1,6 +1,6 @@
 {
    "brands": [
-       "legacy:textures/gui/intro/key_blank.png",
+       "legacy:textures/gui/intro/key_pw.png",
        "legacy:textures/gui/intro/key_loading1.png",
        "legacy:textures/gui/intro/key_loading2.png",
        "legacy:textures/gui/intro/key_loading3.png",
