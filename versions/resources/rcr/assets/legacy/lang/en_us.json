@@ -68,7 +68,7 @@
  "legacy.menu.albums.resource.template.description": "A custom texture pack saved with the resource packs that were selected in the Resource Packs Screen! You can edit it in the resource_assorts.json file in the game directory.",
  "legacy.menu.add_album": "Add Texture Pack",
  "legacy.menu.edit_album": "Edit Pack Properties",
- "legacy.menu.album_info": "Enter the information for your Texture Pack",
+ "legacy.menu.album_info": "Enter the information for your pack",
  "legacy.menu.album_options": "Texture Pack Options",
  "legacy.menu.remove_album": "Remove Texture Pack",
  "legacy.menu.create_world": "Create New World"
